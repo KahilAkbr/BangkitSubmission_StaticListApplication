@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">FilmIn</string>
+    <string name="welcome_textview">Selamat Datang di FILMIN !</string>
+    <string name="title_text">di FILMIN !</string>
+    <string name="title_home">Daftar Film Paling Banyak Ditonton di Indonesia</string>
+    <string name="about_me">About Me</string>
+    <string name="back">back</string>
+    <string name="title_about_me">Tentang Saya</string>
+    <string name="nama_saya">Kahil Akbar Bayu Adityo</string>
+    <string name="email_saya">kahil.akbar@gmail.com</string>
+
+    <string name="film_name">Nama Film</string>
+    <string name="duration">Durasi</string>
+    <string name="rating">Rating</string>
+    <string name="view">View</string>
+    <string name="film_producer">Producer - Tahun</string>
+    <string name="synopsis">SINOPSIS</string>
+    <string name="synopsis_detail">Lorem Ipsum Dolor Sit Amet</string>
+
+    <string-array name="data_name">
+        <item>KKN di Desa Penari</item>
+        <item>Agak Laen</item>
+        <item>Warkop DKI Reborn</item>
+        <item>Pengabdi Setan 2</item>
+        <item>Dilan 1990</item>
+        <item>Miracle in Cell No. 7</item>
+        <item>Dilan 1991</item>
+        <item>Sewu Dino</item>
+        <item>Laskar Pelangi</item>
+        <item>Habibie &amp; Ainun</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kknpenari</item>
+        <item>@drawable/agaklaen</item>
+        <item>@drawable/warkopdki</item>
+        <item>@drawable/pengabdisetan2</item>
+        <item>@drawable/dilan1990</item>
+        <item>@drawable/miraclecell</item>
+        <item>@drawable/dilan1991</item>
+        <item>@drawable/sewudino</item>
+        <item>@drawable/laskar_pelangi</item>
+        <item>@drawable/habibiedanainun</item>
+    </integer-array>
+
+    <string-array name="data_views">
+        <item>10.061.033</item>
+        <item>8.205.798</item>
+        <item>6.858.616</item>
+        <item>6.391.982</item>
+        <item>6.315.664</item>
+        <item>5.860.917</item>
+        <item>5.253.411</item>
+        <item>4.891.609</item>
+        <item>4.719.453</item>
+        <item>4.601.249</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>5.9/10</item>
+        <item>8.1/10</item>
+        <item>6.4/10</item>
+        <item>6.7/10</item>
+        <item>7.0/10</item>
+        <item>7.7/10</item>
+        <item>6.5/10</item>
+        <item>6.0/10</item>
+        <item>7.9/10</item>
+        <item>7.6/10</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>2J 10M</item>
+        <item>1J 59M</item>
+        <item>1J 35M</item>
+        <item>1J 59M</item>
+        <item>1J 50M</item>
+        <item>2J 12M</item>
+        <item>2J 1M</item>
+        <item>2J 1M</item>
+        <item>2J 4M</item>
+        <item>1J 58M</item>
+    </string-array>
+
+    <string-array name="data_producer">
+        <item>MD Pictures - 2022</item>
+        <item>Imajinari - 2024</item>
+        <item>Falcon Pictures - 2016</item>
+        <item>Rapi Films - 2022</item>
+        <item>Max Pictures - 2018</item>
+        <item>Falcon Pictures - 2022</item>
+        <item>MD Pictures - 2023</item>
+        <item>Miles Films - 2008</item>
+        <item>MD Pictures - 2012</item>
+        <item>Rapi Films -2017</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>
+            Enam mahasiswa, Nur, Widya, Ayu, Bima, Anton, dan Wahyu, melaksanakan Kuliah Kerja Nyata (KKN) di desa yang mereka pikir biasa saja. Namun, peringatan dari Pak Prabu, kepala desa, tentang batas terlarang di desa itu menjadi awal dari petualangan menyeramkan mereka. Perubahan sikap yang mengejutkan dari salah seorang dari mereka, Bima, membuat program KKN mereka berantakan. Ketika keanehan mulai terasa, sosok penari misterius mulai meneror mereka. Mbah Buyut, seorang dukun setempat, menjadi satu-satunya harapan untuk mengungkap misteri yang mengancam nyawa mereka di Desa Penari. Tissa Biani, Adinda Thomas, dan Achmad Megantara membawa karakter-karakter ini ke layar dengan intensitas yang membuat penonton terpaku. Ditemani oleh akting menawan dari Aghniny Haque, Calvin Jeremy, M Fajar Nugraha, dan sejumlah bintang lainnya, film ini menggambarkan ketegangan yang membelenggu kelompok mahasiswa itu. Kisah ini tidak hanya menampilkan teror misterius, tetapi juga melibatkan pertarungan mereka untuk bertahan hidup. Dengan bantuan dukun setempat dan petunjuk yang menggiring mereka pada kebenaran kelam, KKN mereka berubah menjadi perjuangan melawan kekuatan gaib di Desa Penari. Dibintangi oleh sejumlah aktor dan aktris ternama seperti Tissa Biani, Adinda Thomas, Achmad Megantara, dan ditunjang oleh akting apik dari para pendukung seperti Kiki Narendra, Aulia Sarah, Diding Boneng Zeta, dan lainnya, film ini menggambarkan perjalanan mencekam yang mempertaruhkan nyawa dan keyakinan. “KKN di Desa Penari” bukan sekadar film seram biasa. Ia adalah penggalian ke dalam dunia gaib di desa terpencil, yang menguji keberanian dan keteguhan hati.Tayang perdana di bioskop Indonesia pada 30 April 2022, film ini memukau penonton dengan atmosfer mencekam yang menjadikan setiap adegannya tak terlupakan.
+        </item>
+        <item>
+            Butuh tontonan yang siap menghibur? Menyaksikan film terbaru Agak Laen mungkin jadi pilihan yang tepat untuk dilakukan oleh detikers. Sinopsis film Agak Laen berfokus pada empat petugas rumah hantu bernama Boris (Boris Bokis), Jegel (Indra Jegel), Bene (Bene Dion), dan Oki (Oki Rengga). Dikisahkan bahwa keempatnya bertugas sebagai hantu yang menakut-nakuti pengunjung rumah hantu yang ada di sebuah pasar malam. Merujuk dari official trailer yang telah dibagikan oleh media sosial @pilem.agak.laen, film Agak Laen dibuka dengan menampilkan sebuah pasar malam. Salah satu wahana yang ditawarkan oleh pasar malam tersebut adalah sebuah rumah hantu yang mana di dalamnya terdapat berbagai macam jenis hantu dari Indonesia. Namun, alih-alih menyeramkan dan membuat para pengunjung terkesan, rumah hantu tersebut justru sama sekali tidak menunjukkan kesan yang seram. Bahkan hantu-hantu di dalamnya pun tidak berhasil membuat pengunjung terkejut maupun ketakutan. Situasi tersebut membuat pihak pengelola wahana mencoba sebisa mungkin untuk menghadirkan wahana rumah hantu yang menyeramkan. Hingga akhirnya ada sebuah kejadian yang berhasil membuat geger para petugas wahana rumah hantu. Diketahui bahwa ada salah satu pengunjung yang mengalami gagal jantung hingga membuatnya kehilangan nyawa karena terlalu terkejut. Para hantu yang bertugas pada saat itu lantas panik dan mencoba untuk menguburkan mayatnya. Setelah kejadian tersebut, wahana rumah hantu menjadi viral karena banyak pengunjung yang mengaku mengalami kejadian mistis saat berkunjung di sana. Mereka pun mendapatkan banyak keuntungan karena banyaknya pengunjung yang datang. Akan tetapi siapa sangka, mayat yang telah mereka kuburkan tersebut merupakan orang penting. Berita hilangnya dia pun sontak membuat heboh masyarakat. Hal tersebut membuat pihak kepolisian turun tangan yang menyelidikinya. Keempat petugas tadi pun dihantui oleh rasa bersalah dan berusaha untuk mengetahui apa yang sebenarnya terjadi pada malam kejadian berlangsung. Lantas sebenarnya siapakah dalang dibalik kematian orang tersebut?
+        </item>
+        <item>
+            Dono (Abimana Aryasatya), Kasino (Vino Bastian), dan Indro (Tora Sudiro) adalah tiga orang sahabat yang bekerja sebagai petugas keamanaan di organisasi CHIIPS (Cara Hebat Ikut Ikutan Pelayanan Sosial) di mana tugas mereka adalah membantu menertibkan dan menjaga keamanan masyarakat. Namun, tingkah mereka yang konyol dan bermasalah selalu membuat jengkel dan marah atasan mereka, Pak Boss (Ence Bagus), walaupun mereka berhasil lolos dari ancaman pemecatan. Karena mereka bertiga merupakan anggota CHIIPS yang memiliki rekor paling buruk, Boss memasukkan anggota CHIIPS dari Paris bernama Sophie (Hannah Al Rashid) untuk membantu mereka. Patroli pertama mereka berakhir buruk setelah mereka gagal mengejar seorang Copet (Arie Kriting), merusak warung warga, dan menyebabkan kebakaran pada sebuah pameran lukisan. Mereka ditangkap dan dibawa ke pengadilan di mana mereka bertiga dituntut untuk mengganti rugi dengan membayar denda sebesar 8 miliar rupiah atau mereka akan dipenjara. Dono, Kasino, dan Indro yang kebingungan mencari uang, mengunjungi paman Dono yaitu Pak Slamet (Tarzan) untuk meminjam uang. Rencana mereka gagal setelah mereka menyadari bahwa koper pemberian Pak Selamet berisi uang mainan dan hampir diamuk warga karena dikira mengedarkan uang palsu. Stress, Indro marah-marah dengan Indro dari masa depan (Indro Warkop) yang hanya ada di kepalanya. Sophie yang merasa kasihan mengajak mereka bertiga ke pesta. Namun di perjalanan, mereka tidak sengaja melihat seorang pria (Bene Dion) ditabrak oleh mobil misterius. Mereka kemudian membawa pria itu ke rumah sakit, saat sekarat, pria itu menyerahkan sebuah buku berisi peta harta karun pada mereka bertiga. Dono, Kasino, dan Indro pun akhirnya menerima peta tersebut dan berniat untuk mencari harta tersebut agar bisa membayar denda 8 miliar. Mereka pergi ke Malaysia sesuai petunjuk kode dalam peta dengan bantuan Sophie dan menjual barang-barang mereka. Sesampainya di bandara Malaysia, mereka menyadari bahwa tas berisi buku harta karun tersebut tertukar. Sempat berpencar untuk mencari tas tersebut, Kasino menemukan layar CCTV bandara yang menunjukkan tas mereka tertukar dengan tas seorang wanita berbaju merah (Nur Fazura). Sempat kejar-kejaran dengan menggunakan taksi hingga ke China Town, mereka kehilangan jejak wanita tersebut karena banyak wanita-wanita di sana yang juga menggunakan baju merah. Film berakhir dengan Indro dari masa depan mengucapkan salam ke penonton.
+        </item>
+        <item>
+            Pengabdi Setan 2: Communion mengisahkan keluarga Suwono yang terperangkap dalam kegelapan mistis yang melingkupi sebuah rumah susun di Jakarta Utara. Cerita ini dimulai dari kejadian pada tahun 1955 di Lembang, Bandung Barat, di mana seorang jurnalis bernama Budiman diminta untuk meliput penemuan mayat dengan posisi bersujud di Observatorium Bosscha. Penemuan ini terhubung dengan gambar bertuliskan Raminom. Kemudian, alur cerita berpindah ke tahun 1984, mengisahkan keluarga Suwono yang menetap di rumah susun pemerintah setelah insiden mengerikan di rumah mereka sebelumnya. Ketika badai besar melanda, sebagian besar penghuni mengungsi, meninggalkan hanya beberapa orang termasuk Rini dan keluarganya. Kejadian supranatural mulai muncul dengan kecelakaan lift mengerikan yang menewaskan banyak orang. Pada saat yang sama, Budiman menerima paket dari sahabatnya yang sudah meninggal, yang berisi foto-foto serta Pear of Anguish. Budiman menyadari bahaya yang mengintai di rumah susun tersebut dan berusaha menuju sana, tetapi tidak ada yang mau mengantarnya karena banjir. Setiap anggota keluarga Suwono mulai mengalami kejadian supranatural yang mengerikan. Wisnu, anak yang kehilangan ayahnya dalam kebakaran, teror oleh suara misterius yang mengaku sebagai ayahnya. Kematian tragis menimpa beberapa penghuni rumah susun, dan setiap kejadian mengarah pada teror yang semakin mengerikan. Rini, Toni, dan Wisnu mulai mengungkap misteri rumah susun bersama dengan beberapa penghuni lainnya. Mereka menemukan bahwa rumah susun dibangun di atas bekas kuburan dan menyadari bahwa ada lantai tersembunyi yang tak terjangkau oleh tangga. Pada penghujung cerita, mereka menghadapi konfrontasi puncak dengan kekuatan gaib yang ada di rumah susun tersebut. Rini terbangun di lantai tersembunyi dan menyaksikan Ian mengatur entitas supranatural dengan bahasa isyarat rahasia. Kebenaran tentang keluarga Suwono terungkap, di mana ayah mereka dulu adalah seorang polisi yang terlibat dalam pemujaan setan dan harus membunuh untuk memenuhi syarat kesepakatan dengan sekte tersebut. Dalam upaya untuk melawan kekuatan gelap yang mendominasi rumah susun, beberapa penghuni bersatu dan menggunakan Pear of Anguish untuk menghadapi Raminom/Ibu dan entitas supranatural lainnya. Mereka berusaha melarikan diri dari rumah susun yang dipenuhi dengan teror dan kegelapan. Kisah ini menggambarkan pertarungan antara kekuatan supranatural dan manusia, di mana kebenaran kelam tentang masa lalu keluarga Suwono terungkap di tengah teror yang melumpuhkan. Dengan peristiwa ini, terungkaplah keterlibatan keluarga Suwono dalam sebuah perjanjian dengan kekuatan gaib yang berujung pada kengerian dan penderitaan di rumah susun tersebut.
+        </item>
+        <item>
+            Kisah Dilan dan Milea dimulai saat perkenalan tak biasa mereka di sebuah SMA di Bandung. Mereka bertemu di tahun 1990 saat Milea pindah dari Jakarta ke Bandung. Perkenalan unik itulah yang akhirnya membuat Milea kenal Dilan lebih jauh. Dilan merupakan sosok yang pintar, baik hari dan romantis. Ia punya cara sendiri untuk bisa mendekati Milea. Meski cara bicaranya terdengar kaku, dan punya cara unik untuk mengenal Milea, tapi sikap inilah yang bikin Milea semakin penasaran dan ingin dekat dengan Bilan. Sayangnya momen manis mereka harus terganggu karena kehadiran Beni yang merupakan pacar Milea yang tinggal di Jakarta. Belum lagi Dilan juga terlibat tawuran dan geng motor. Meski sebenarnya Dilan mampu bikin Milea percaya tujuan perjalanan mereka akan sampai di satu titik yang sama. Perjalanan kisah kasih Dilan dan Milea yang unik nan manis. Akankah Dilan dan Milea mampu bersatu? Sosok Dilan diperankan oleh Iqbaal Dhiafakhri Ramadhan, sedangkan Vanesha Presscilla terpilih untuk memerankan sosok Milea. Sederet aktor dan aktris muda seperti Gusti Rayhan, Giulio Parengkuan, Brandon Salim, dan Andryos Aryantyo juga turut tampil dalam film yang dirilis pada 25 Januari 2018 itu.
+        </item>
+        <item>
+            Miracle In Cell No.7 menceritakan tentang Dodo Rozak (Vino G. Bastian) seorang ayah yang memiliki keterbatasan dalam hal kecerdasan yang membuatnya bertingkah dan berperilaku seperti anak-anak, ia berusaha menjadi ayah yang baik untuk putrinya Kartika (Graciella Abigail dan Mawar de Jongh). Kartika adalah anak yang sederhana, dan bangga dengan ayahnya yang sehari-hari bekerja berjualan balon. Pada kenyataannya, di kehidupan sehari-hari, Kartika yang lebih sering menjaga dan merawat sang ayah, meski begitu keduanya tetap menjalani hidup bahagia. Hingga suatu hari peristiwa terjadi membuat ia terpisah dari Dodo. Dodo ditangkap dengan tuduhan pemerkosaan dan pembunuhan seorang seorang gadis kecil bernama Melati, Dodo dengan keterbatasannya alami kesulitan menjelaskan yang sebenarnya. Dodo masuk ke penjara ditempatkan di sel nomor tujuh yang dihuni oleh para napi mulai dari kepala napi (Indro Warkop), Jaki (Tora Sudiro), Bewok (Rigen Rakelna), Atmo (Indra Jegel), dan Asrul “Bule” (Bryan Domani). Setelah berbagai peristiwa yang dialami Dodo di penjara, Dodo berteman dengan para napi di sel nomor tujuh dan mendapatkan bantuan untuk menyelundupkan Kartika ke dalam selnya. Para napi sel nomor tujuh melihat kedekatan Dodo dan Kartika yang juga menularkan kebahagiaan pada para napi dan sipir lain yang ada di dalam penjara. Melihat kedekatan itu, semua meragu apakah Dodo tega untuk memperkosa hingga membunuh gadis kecil seperti Melati. Apakah yang akan terjadi pada Dodo dan Kartika selanjutnya, mampukah Dodo terbebas dari semua tudingan yang dilayangkan kepadanya.
+        </item>
+        <item>
+            Dilan terancam dikeluarkan dari sekolah karena berkelahi dengan Anhar (Giulio Parengkuan). Ia juga terlibat dalam perkelahian dan banyak mendapatkan musuh. Milea mengkhawatirkan masa depan Dilan. Terlebih Dilan menjadi panglima geng motor yang kegiatannya dapat mengancam nyawanya. Suatu hari, Dilan diserang oleh orang tak dikenal. Mengetahui siapa pelakunya, Dilan berencana membalas dendam. Milea akhirnya meminta Dilan untuk berhenti dari geng motor atau hubungan mereka berakhir. Di tengah semua masalah tersebut, Yugo (Jerome Kurnia), sepupu jauh Milea yang baru saja kembali dari Belgia bertemu denganya. Mereka sering menghabiskan waktu bersama. Yugo menyukai Milea. Namun Milea hanya mencintai Dilan. Keberadaan Yugo memperkeruh hubungan keduanya. Hubungan Dilan dan Milea berakhir karena Dilan lebih memilih untuk melancarkan aksi balas dendam terhadap orang-orang yang menyerangnya. Namun, Milea merasa menyesal karena telah memutuskan Dilan. Penyesalannya bertambah besar saat ia mengetahui Dilan ditangkap oleh polisi karena penyerangannya tersebut. Masalah Milea dan Dilan berhasil diatasi berkat Bunda Hara (Ira Wibowo), ibunda Dilan. Namun, hubungan manis keduanya tidak berlangsung lama karena Dilan harus memilih antara Milea atau geng motornya.
+        </item>
+        <item>
+            Sewu Dino mengisahkan kisah kehidupan yang dialami seorang perempuan bernama Sri (Mikha Tambayong). Sri hidup dibawah garis kemiskinan dan hanya memiliki sang ayah sebagai satu-satu keluarga yang tersisa. Kondisi ayah Sri sedang sakit-sakitan, mau tidak mau Sri yang harus bertanggung jawab untuk memenuhi kehidupan keluarganya. Sri bekerja pada Yu Minah (Maryam), pemilik usaha warung makan di desanya, namun penghasilannya sebagai pelayan warung belum mencukupi kebutuhan hariannya, apalagi ia harus membiayai pengobatan ayahnya. Suatu hari, Sri direkrut untuk bekerja di keluarga Mbah Atmojo dengan bayaran tinggi. Pekerjaan tersebut sebenarnya penuh misteri dan mencurigakan. Bayaran tinggi yang diberikan tersebut hanya berdasarkan pertimbangan karena Sri lahir pada hari Jumat kliwon. Sri tidaklah sendiri dalam pekerjaan tersebut, ia memiliki rekan kerja bernama Erna (Givina Lukita) dan Dini (Agla Artalidia).  Diketahui kemudian, ketiganya ternyata memiliki kesamaan dengan Sri, yaitu lahir pada Jumat kliwon. Ketiganya kemudian dipekerjakan di sebuah tempat tersembunyi di tengah hutan, tugas mereka adalah memandikan dan menjaga Dela Atmojo (Gisellma Firmansyah ) cucu Mbah Karsa Atmojo yang tidak sadarkan diri. Tubuh Dela terlihat diikat dan ditempatkan dalam sebuah keranda, dari sanalah beragam kejadian mistis menimpa Sri dan rekan-rekannya Sri Dini dan Ema ternyata direkrut untuk perjanjian mistis, ketiganya tidak bisa kabur, jika melanggar maka mereka akan kehilangan nyawa. Lantas seperti apa kisah seram Sewu Dino ini?
+        </item>
+        <item>
+            Mengkisahkan tentang Ikal (Zulfanny) anak asli Belitong yang berusaha keras mengejar mimpinya dengan bersekolah di salah satu SD yang hampir roboh bernama SD Muhammadiyah Gantong. Tahun 1974, Ikal kecil bersama ayahnya (Mathias Muchus) pergi ke sekolah SD Muhammadiyah Gantong untuk mendaftarkan Ikal disana. Sekolah tersebut diajarkan oleh Pak Harfan (Ikranagara) selaku kepala sekolah, serta dua guru Bu Muslimah (Cut Mini) dan Pak Bakri (Teuku Rifnu Wikana). Sebagian besar siswa tersebut berasal dari kalangan keluarga miskin seperti Lintang (Ferdian) anak pesisir asal Tanjung Kelumpang yang tinggal bersama ayah dan tiga adik perempuannya, Mahar (Verrys Yamarno) yang sangat hobi mendengarkan musik melalui radionya, Kucai (Yogi Nugraha) ketua kelas yang ayahnya bekerja di tambang PN Timah, dan masih ada lagi. Sekolah tersebut memiliki aturan bahwa sekolah bisa membuka kelas baru jika jumlah siswanya sudah mencapai sepuluh siswa-siswi. Berbeda dengan sekolah lain seperti SD PN Timah yang setiap tahunnya selalu membuka kelas baru. Salah satu gurunya yaitu Pak Mahmud (Tora Sudiro) tertarik sama Bu Muslimah, walaupun Pak Mahmud pernah membuat Bu Muslimah agak sedikit tersinggung. Setelah lama menunggu, siswa-siswi yang terkumpul baru mencapai sembilan siswa. Ketika harapan tersebut hampir redup, datanglah seorang anak bernama Harun (Jeffry Yanuar) yang merupakan anak abk. Kehadiran Harun membuat sekolah ini akhirnya memiliki kelas baru. Lima tahun kemudian tahun 1979, anak-anak SD Muhammadiyah menikmati kebahagian mereka di sekolah seperti anak-anak lainnya. Kadang-kadang kebahagian mereka membuat mereka sempat tidak menuruti apa kata Bu Muslimah. Tetapi dibalik itu semua, semangat mereka dalam belajar sangat tinggi. Seperti Lintang yang selalu datang telat karena harus menjaga adik-adiknya dulu sambil menunggu ayahnya pulang dari melaut, Lintang pun harus naik sepeda puluhan meter melewati rumput, menunggu buaya besar lewat, hingga akhirnya tiba di sekolah.
+        </item>
+        <item>
+            Habibie dan Ainun dikisahkan menjadi teman satu sekolah saat SMA. Namun kala itu Habibie belum menyukai Ainun dan menyebutnya hitam seperti gula jawa. Keduanya kemudian melanjutkan mimpi masing-masing. Habibie bersekolah ke Jerman sementara Ainun menjadi dokter. Setelah dewasa, keduanya kembali bertemu. Habibie jatuh cinta pada Ainun yang menurutnya kini sudah cantik seperti gula pasir. Setelah keduanya makin dekat, Habibie dan Ainun pun memutuskan untuk menikah. Habibie membawa Ainun ke Jerman untuk menemaninya bekerja hingga meraih gelar doktor. Keduanya pun menjalani kehidupan yang sederhana dan serba prihatin. Beberapa tahun kemudian, Indonesia yang telah dipimpin oleh Presiden Soeharto memanggil Habibie untuk pulang. Pemerintah Indonesia menjanjikan siap untuk mendukung segala proyek pembangunan yang dirancang oleh Habibie. Habibie pun menerima tawaran tersebut. Namun ia meninggalkan Ainun yang masih bekerja sebagai dokter dan anak-anaknya di Jerman. Di Indonesia, Habibie memulai proyek pembuatan pesawat terbangnya di Industri Pesawat Terbang Nusantara atau IPTN. Beberapa tahun kemudian, Ainun memutuskan untuk berhenti sebagai dokter. Ainun dan anak-anak pun pulang ke Indonesia. Habibie juga telah ditunjuk sebagai Menteri Riset dan Teknologi di era pemerintahan Soeharto. Habibie juga mengalami banyak ujian selama menjabat sebagai menteri. Banyak orang-orang yang berusaha menyuapnya hingga berbagai media yang memberitakan proyeknya. Selama itu pula, Ainun selalu ada untuk mendukungnya. Hingga akhirnya pada tahun 1995, pesawat pertama buatan Indonesia yang merupakan proyek Habibie berhasil mengudara. Hal tersebut menjadi prestasi besar BJ Habibie. Setelah itu, Habibie kemudian diangkat menjadi wakil presiden Indonesia. Habibie pun semakin sibuk dengan tugasnya sebagai wakil presiden. Di masa tersebut, Indonesia juga semakin mengalami krisis ekonomi. Puncaknya adalah peristiwa Mei 1998 yang membuat Presiden Soeharto mundur dari jabatannya.
+        </item>
+    </string-array>
+</resources>
